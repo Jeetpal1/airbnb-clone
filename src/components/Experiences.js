@@ -4,12 +4,7 @@ import data from "../data";
 
 function Experiences() {
   let cards = data.map((experience) => {
-    return (
-      <Card
-        key={experience.id}
-        {...experience}
-      />
-    );
+    return <Card key={experience.id} {...experience} />;
   });
   return <div className="experiences">{cards}</div>;
 }
