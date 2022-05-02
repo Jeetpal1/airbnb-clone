@@ -5,7 +5,7 @@ function Card(props) {
     <div className="card">
       {props.image}
       <div className="card--title">
-        <img src={star} alt="star logo" className="card--star"/>
+        <img src={star} alt="star logo" className="card--star" />
         <span className="grey">{props.rating}</span>
         <p className="card--details">{props.details}</p>
         <p className="card--price">{props.price}</p>

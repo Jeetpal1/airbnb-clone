@@ -50,14 +50,29 @@ body {
   line-height: 110%;
 }
 
-.grey{
-  color: #918E9B;
+.grey {
+  color: #918e9b;
 }
-.card--star{
+.card--star {
   height: 0.8em;
 }
-.experiences{
+.experiences {
   padding: 20px;
   display: flex;
   flex-direction: row;
+}
+.card {
+  margin: 10px;
+  font-weight: 300;
+  max-width: 150px;
+  font-size: 12px;
+  line-height: 110%;
+  /* identical to box height, or 13px */
+
+  color: #222222;
+}
+
+.experience {
+  max-width: 150px;
+  margin-bottom: 5px;
 }
