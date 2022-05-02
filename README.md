@@ -1,4 +1,4 @@
-Picture of Final project!
+A Picture of the Final project!
 
 ![image](https://user-images.githubusercontent.com/70360391/166337544-2674f2f9-2628-480e-9ffe-0bfc6069a5c3.png)
 
