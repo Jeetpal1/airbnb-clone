@@ -1,0 +1,63 @@
+.App {
+  text-align: center;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: "Poppins";
+  font-style: normal;
+}
+
+.navbar--logo--container {
+  display: flex;
+  height: 90px;
+  padding: 18px 25px;
+  box-shadow: 0px 2.98256px 7.4564px #ff5a5f;
+}
+
+.navbar--logo {
+  max-width: 150px;
+}
+
+.content {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+}
+.content--pic {
+  width: 800px;
+  height: 400px;
+  align-self: center;
+}
+
+.content--heading {
+  font-weight: 600;
+  font-size: 36px;
+  line-height: 110%;
+  /* identical to box height, or 40px */
+
+  color: #000000;
+  margin-bottom: 15px;
+}
+.content--para {
+  margin-top: 0;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 110%;
+}
+
+.grey{
+  color: #918E9B;
+}
+.card--star{
+  height: 0.8em;
+}
+.experiences{
+  padding: 20px;
+  display: flex;
+  flex-direction: row;
+}
