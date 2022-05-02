@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/70360391/166317005-01e7578f-9809-42d0-823b-d0a7dee1aff8.png)
+![image](https://user-images.githubusercontent.com/70360391/166336324-40cf75b1-b548-4d2c-8f13-76d17fe74cae.png)
 
 # Getting Started with Create React App
 
